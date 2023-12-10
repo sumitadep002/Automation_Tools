@@ -1,0 +1,4 @@
+1) Why Makefile?
+->Makefiles are used to help decide which parts of a large program need to be recompiled.
+->If any file is changed then it needs to  be included in recompilation.
+->

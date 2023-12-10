@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/a.out.dir/main.c.o -o a.out  -Wl,-rpath,/home/sumit/Desktop/GitHub/CMake/Example5/build/myLib myLib/libcalc.so 

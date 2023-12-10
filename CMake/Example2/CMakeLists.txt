@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.1)
+add_library(calc myLib/calc.c)
+project("Math")
+add_executable(a.out main.c)
+target_link_libraries(a.out calc)
